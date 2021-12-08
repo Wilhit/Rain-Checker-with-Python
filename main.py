@@ -9,11 +9,11 @@ LAT = -22.5594
 # https://api.openweathermap.org/
 # Get the api_key, account_sid, auth_token from the website above
 
-api_key = "580bdc9a6f3e73e779fe5ffb0d073935"
+api_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
-account_sid = "AC58ad97c673dae1b3eaef582f5e700c05"
+account_sid = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
-auth_token = "23246e442eac128ad805bfffdc297a70"
+auth_token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 parameters = {
     'lat': LAT,
